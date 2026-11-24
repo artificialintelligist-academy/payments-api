@@ -3,7 +3,7 @@
 The gateway usually answers in 1 to 3 seconds.
 """
 
-GATEWAY_TIMEOUT_SECONDS = 2
+GATEWAY_TIMEOUT_SECONDS = 4
 MAX_RETRIES = 3
 BACKOFF_SECONDS = 0.5
 
